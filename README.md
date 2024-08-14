@@ -1,6 +1,6 @@
 # RobloxAutoupdater-fr
 (Français) Un système qui met à jour votre jeu Roblox automatiquement ! 
 
-> [!TIP] 
+> [!CAUTION] 
 > Ne l'utilisez PAS en administrateur.
 > 
